@@ -13,7 +13,7 @@ The goals of this activity are to:
   to the project before it is accepted into the main branch
 - give you a first experience of coding in a collaborative environment
 - experiment with how to most effectively divide up coding tasks
-
+kj
 # The Task
 
 Now that we are familiar with the process of branching and making pull requests from the
